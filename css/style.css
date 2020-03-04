@@ -1,0 +1,94 @@
+
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1800px;
+    justify-content: center;
+    flex-direction: row;
+    background: #e6e6fa;
+    margin: auto;
+}
+
+.title{
+    font-family: 'Simonetta', sans-serif;
+    display: flex;
+    width: 100%;
+    background: rgb(152, 203, 207);
+    justify-content: center;
+}
+
+.promo_block{
+    display: flex;
+    margin-top: 5%;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.promo_wraper{
+    display: flex;
+    font-family: 'Simonetta', sans-serif;
+    width: 50%;
+    flex-wrap: wrap;
+}
+
+.promo_title{
+
+    display: flex;
+    width: 100%;
+    align-items: flex-end;
+    font-size: 50px;
+    padding: 0 10%;
+}
+
+.promo_text{
+    display: flex;
+    width: 100%;
+    align-items: flex-start;
+    font-size: 25px;
+    padding: 0 10%;
+}
+
+.promo_clipart{
+    display: flex;
+    width: 50%;
+    justify-content: flex-end;
+}
+
+.product{
+    display: flex;
+    width: 100%;
+    font-size: 20px;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.link{
+    display: flex;
+    padding: 30px 8%;
+    font-size: 70px;
+}
+
+.bmw3{
+    width:500px;
+    height: 370px;
+    background-image: url('../images/bmw_3.png');
+}
+
+.bmw4{
+    width:500px;
+    height: 370px;
+    background-image: url('../images/bmw_4.png');
+}
+
+.bmw7{
+    width:500px;
+    height: 370px;
+    background-image: url('../images/bmw_7.png');
+}
+
+p
+{
+    text-align: center;
+    padding-left: 2%;
+    
+}
