@@ -64,8 +64,9 @@
 
 .link{
     display: flex;
-    padding: 30px 8%;
+    width: 100%;
     font-size: 70px;
+    padding: 8%;
 }
 
 .bmw3{
